@@ -1,0 +1,8 @@
+
+
+
+polo@polo-imedia-S3840:/monsite$ cd /monsite
+polo@polo-imedia-S3840:/monsite$ sudo git add page2.html
+polo@polo-imedia-S3840:/monsite$ sudo git commit -m ajoutpage2
+polo@polo-imedia-S3840:/monsite$ sudo git push -u origin master
+
